@@ -1,0 +1,29 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Image",
+      "url": "https://avatars2.githubusercontent.com/u/51052168?s=200&v=4",
+      "size": "stretch"
+    },
+    {
+      "type": "TextBlock",
+      "spacing": "medium",
+      "size": "default",
+      "weight": "bolder",
+      "text": "Bienvenido a vOpen Tech 2019 - Uruguay!",
+      "wrap": true,
+      "maxLines": 0
+    },
+    {
+      "type": "TextBlock",
+      "size": "default",
+      "isSubtle": "yes",
+      "text": "Con este bot, podrás consultar los speakers y las charlas del evento.",
+      "wrap": true,
+      "maxLines": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Hoy te convertís en un héroe",
+        "description":"Vos también podes ser parte de la comunidad, vos tenes algo que te hace único, vos tenes algo para dar. Esta charla es sobre comunidad, como un simple dev como yo (y posiblemente como vos) puede hacer la diferencia en la comunidad. Quiero compartir mi viaje, desde ser un “consumidor” de la comunidad a participar en Stack Overflow, tener mi propio blog y un proyecto open source con más de 100.000 descargas.",
+        "tag":["comunidad", "responsabilidad social"],
+        "speaker":"Dario Kondratiuk",
+        "date": "2019-10-22",
+        "time":"10:20"
+    },
+    {
+        "title": "Are you really protected?",
+        "description":"Talk about privacy and our social behavior.",
+        "tag":["security", "privacy"],
+        "speaker":"Viviane Martins Ferreira",
+        "date": "2019-10-22",
+        "time":"11:25"
+    },
+    {
+        "title": "Impacto de la Inteligencia Artificial en el Testing",
+        "description":"La inteligencia artificial ha impactado en la manera que construimos software. En esta ocasión compartiremos como lo está haciendo en el testing de software. El avance de la tecnología ha cambiado la forma en que se prueban las aplicaciones que utilizan inteligencia artificial. Incluso, la inteligencia artificial está siendo adoptada hoy en día para probar aplicaciones.",
+        "tag":["ai", "testing"],
+        "speaker":"Guillermo Skrilec",
+        "date": "2019-10-22",
+        "time":"12:15"
+    },
+    {
+        "title": "Haciendo un bot más inteligente",
+        "description":"Pasamos desde una presentación de las características sobresalientes de Microsoft Bot Framework a la presentación de un caso de un bot usando servicios de Microsoft Azure para mejorar la interacción con el usuario, mediante reconocimiento de frases, e imágenes.",
+        "tag":["bots", "ai", "azure"],
+        "speaker":"Sebastian Gambolati",
+        "date": "2019-10-22",
+        "time":"14:00"
+    },
+    {
+        "title": "DevOps con OpenShift Container Platform",
+        "description":"En esta demostración se hará un recorrido por la consola web para conocer conceptos y beneficios que OpenShift brinda como plataforma de contenedores. Se mostrará el concepto de integración continua (CI) a través de una demo de source to image (S2I) y de despliegue continuo (CD) utilizando pipelines. También se contrastarán algunas de las ventajas de utilizar OpenShift por sobre un cluster de Kubernetes. Por último y pensando en los administradores de la plataforma, se demostrarán algunas de las herramientas integradas a OpenShift para el monitoreo de un cluster.",
+        "tag":["devops", "openshift"],
+        "speaker":"Jose Panizza",
+        "date": "2019-10-22",
+        "time":"14:50"
+    },
+    {
+        "title": "Construye tu aplicación Multi-Tenant",
+        "description":"¿Que es un software multitenant? Es un principio de arquitectura de software donde sola instancia de la aplicación puede alojar múltiples clientes u organizaciones . Este es un ambiente muy común en aplicaciones de tipo SaaS (Software as a Services) en la nube. En esta charla veremos diferentes estrategias de cómo diseñar y construir una aplicación multitenant, como particionar datos, configuraciones y requerimientos para clientes. Si tiene un producto el cual quieras convertir a SaaS y cobrar por una suscripción, esta es tu charla.",
+        "tag":["web apps", "arquitectura"],
+        "speaker":"Fernando Sonego",
+        "date": "2019-10-22",
+        "time":"15:55"
+    },
+    {
+        "title": "Secure design of applications for mobile devices",
+        "description":"Train developers how to develop mobile applications, enable them to evaluate their own applications using Open-source tools and using OWASP methodology.",
+        "tag":["security", "owasp"],
+        "speaker":"Enrique Dutra",
+        "date": "2019-10-22",
+        "time":"16:45"
+    }
+]
